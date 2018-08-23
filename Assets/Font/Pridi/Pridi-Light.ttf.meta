@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 46e7787e0a926e34a852d8e20451ac5f
+timeCreated: 1534820556
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pridi
+  fontNames:
+  - Pridi
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 33258cf1c354fb547b9f8ce1b1d53f02, type: 3}
+  - {fileID: 12800000, guid: 13d056d93ef138a4b9bf83ab93609d15, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

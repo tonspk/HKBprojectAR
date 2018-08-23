@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: d4bbcfb665f045548a91460dc7236c39
+timeCreated: 1534581091
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mitr
+  fontNames:
+  - Mitr
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6c137d7052e99ef43b9bffbb785c7b47, type: 3}
+  - {fileID: 12800000, guid: 697882f3b4fd80a4f8e4773fedd86e3e, type: 3}
+  - {fileID: 12800000, guid: 84fc09866f01fb944b095a570bf78eed, type: 3}
+  - {fileID: 12800000, guid: ab5b72f7a3cca034e947561dd8330921, type: 3}
+  - {fileID: 12800000, guid: 805c954eece98794fa5ad38736a7eab6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
