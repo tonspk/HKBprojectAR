@@ -17,21 +17,21 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/help.unity
     guid: 768bd0397879ba94a8f4cfcb8ab8917e
-  - enabled: 1
-    path: Assets/Scenes/limitedmenu.unity
+  - enabled: 0
+    path: 
     guid: 8af0b0e8c4d8380469bbdb30b732d3cc
-  - enabled: 1
-    path: Assets/Scenes/patmenu.unity
+  - enabled: 0
+    path: 
     guid: 4495cd317028fe448a4e5f8de6360a2b
-  - enabled: 1
-    path: Assets/Scenes/somtummenu.unity
+  - enabled: 0
+    path: 
     guid: e02e2b2dc4f295f40ab7c65dd8ab9f93
-  - enabled: 1
-    path: Assets/Scenes/tommenu.unity
+  - enabled: 0
+    path: 
     guid: cb31c3d279506c64787a48cb62039f48
-  - enabled: 1
-    path: Assets/Scenes/totmenu.unity
+  - enabled: 0
+    path: 
     guid: 6ce54aa165a57b1458809787910ffa85
-  - enabled: 1
-    path: Assets/Scenes/yummenu.unity
+  - enabled: 0
+    path: 
     guid: b93ed19163d0b71418e3a7bd4470a1da

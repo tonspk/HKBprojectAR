@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/yummenu.unity
+- path: "Assets/Scenes/menuscene/\u0E22\u0E33.unity"
   isLoaded: 1
   isActive: 1
