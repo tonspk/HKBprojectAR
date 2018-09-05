@@ -59,10 +59,10 @@
      <None Include="Assets\readme_SDK.txt" />
      <None Include="Assets\Vuforia\Shaders\VideoBackground.shader" />
      <None Include="Assets\license_3rdpartynotice.txt" />
+     <None Include="Assets\StreamingAssets\Vuforia\DB_MENUAR_01.xml" />
      <None Include="Assets\Vuforia\Editor\WebcamProfiles\profiles.xml" />
      <None Include="Assets\Vuforia\Shaders\DepthMask.shader" />
      <None Include="Assets\Font\Pridi\OFL.txt" />
-     <None Include="Assets\StreamingAssets\Vuforia\DB_MENUAR_01.xml" />
      <None Include="Assets\Vuforia\Shaders\ClippingMask.shader" />
      <None Include="Assets\Font\Mitr\OFL.txt" />
      <None Include="Assets\Vuforia\Shaders\BrightTexture.shader" />

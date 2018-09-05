@@ -28,6 +28,9 @@ EditorBuildSettings:
     guid: be1b757f0de75cd4c91de6372843d4e9
   - enabled: 1
     path: "Assets/Scenes/menuscene/\u0E15\u0E32\u0E21\u0E24\u0E14\u0E39\u0E01\u0E32\u0E25.unity"
+    guid: d4594d73469c4af4893d85d4a783f1da
+  - enabled: 1
+    path: Assets/Scenes/armode.unity
     guid: 00000000000000000000000000000000
   - enabled: 0
     path: 
