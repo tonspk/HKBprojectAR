@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Yumnaem" size="400.000000 400.000000" />
+    <ImageTarget name="Yummuyor" size="400.000000 400.000000" />
+    <ImageTarget name="Yumwunsen" size="400.000000 400.000000" />
+    <ImageTarget name="Yumyodmeaw" size="400.000000 400.000000" />
+    <ImageTarget name="Yumplatuu" size="400.000000 400.000000" />
+    <ImageTarget name="Yumtale" size="400.000000 400.000000" />
+    <ImageTarget name="Yumtoapuu" size="400.000000 400.000000" />
+    <ImageTarget name="Yumdokkajohn" size="400.000000 400.000000" />
+  </Tracking>
+</QCARConfig>

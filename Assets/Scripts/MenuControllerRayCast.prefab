@@ -25,9 +25,9 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100000}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.493, y: 0.35600033, z: -0.13299994}
-  m_LocalScale: {x: 0.00027803885, y: 0.00027803885, z: 0.00027803885}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.563, y: 0.147, z: 0.054}
+  m_LocalScale: {x: 0.03918725, y: 0.03918725, z: 0.03918725}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -86,8 +86,9 @@ MonoBehaviour:
   contentAssociated:
   - {fileID: 0}
   - {fileID: 0}
-  fellowBtns: []
-  ExitButtonPosition: {x: 23.38, y: -2.8, z: -10.83}
+  fellowBtns:
+  - {fileID: 0}
+  ExitButtonPosition: {x: 25.7, y: -1.1, z: -12.9}
   ExitButtonRadius: 5
 --- !u!135 &13500000
 SphereCollider:

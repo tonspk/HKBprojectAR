@@ -86,8 +86,10 @@
      <Compile Include="Assets\Vuforia\Scripts\WordBehaviour.cs" />
      <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
      <None Include="Assets\Vuforia\Shaders\ColoredLines.shader" />
+     <None Include="Assets\StreamingAssets\Vuforia\DB_MENUAR_TAMLDUKAL.xml" />
      <None Include="Assets\link.xml" />
      <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
+     <None Include="Assets\StreamingAssets\Vuforia\DB_MENUAR_TOM.xml" />
      <None Include="Assets\Vuforia\Shaders\RenderVideoBackground.shader" />
      <None Include="Assets\readme_SDK.txt" />
      <None Include="Assets\Vuforia\Shaders\VideoBackground.shader" />
@@ -95,7 +97,10 @@
      <None Include="Assets\StreamingAssets\Vuforia\DB_MENUAR_01.xml" />
      <None Include="Assets\Vuforia\Editor\WebcamProfiles\profiles.xml" />
      <None Include="Assets\Vuforia\Shaders\DepthMask.shader" />
+     <None Include="Assets\StreamingAssets\Vuforia\DB_MENUAR_PAD.xml" />
      <None Include="Assets\Font\Pridi\OFL.txt" />
+     <None Include="Assets\StreamingAssets\Vuforia\DB_MENUAR_TOD.xml" />
+     <None Include="Assets\StreamingAssets\Vuforia\DB_MENUAR_YUM.xml" />
      <None Include="Assets\Vuforia\Shaders\ClippingMask.shader" />
      <None Include="Assets\Font\Mitr\OFL.txt" />
      <None Include="Assets\Vuforia\Shaders\BrightTexture.shader" />
