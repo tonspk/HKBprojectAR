@@ -1,0 +1,25 @@
+# Blender MTL File: 'SQUID1.blend'
+# Material Count: 2
+
+newmtl Material
+Ns 441.176471
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.651386 1.651386 1.651386
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Untitled
+
+newmtl Material.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.604661 0.378041
+Ks 0.356077 0.356077 0.356077
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\txs790.ADF.002\Desktop\SQUID_Cube.tga
+map_Bump -bm 11.613970 C:\\Users\\txs790.ADF.002\\Desktop\\SQUID_Cube_Normal.png

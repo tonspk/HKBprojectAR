@@ -1,0 +1,13 @@
+# Material Count: 1
+
+newmtl Material.001
+Ns 35.294118
+Ka 0.200000 0.200000 0.200000
+Kd 0.990000 0.990000 0.990000
+Ks 0.010000 0.010000 0.010000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/KATUOT0.jpg
+map_Ka textures/KATUOT0.jpg

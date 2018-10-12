@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 22bf92afa9a1a514abef2785ddba93d3
+timeCreated: 1538841808
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Prayer P10
+    100004: Prayer P11
+    100006: Prayer P12
+    100008: Prayer P13
+    100010: Prayer P14
+    100012: Prayer P15
+    100014: Prayer P16
+    100016: Prayer Pl0
+    100018: Prayer Pl1
+    100020: Prayer Pl2
+    100022: Prayer Pl3
+    100024: Prayer Pl4
+    100026: Prayer Pl5
+    100028: Prayer Pl6
+    100030: Prayer Pl7
+    100032: Prayer Pl8
+    100034: Prayer Pl9
+    100036: Prayer Pla
+    400000: //RootNode
+    400002: Prayer P10
+    400004: Prayer P11
+    400006: Prayer P12
+    400008: Prayer P13
+    400010: Prayer P14
+    400012: Prayer P15
+    400014: Prayer P16
+    400016: Prayer Pl0
+    400018: Prayer Pl1
+    400020: Prayer Pl2
+    400022: Prayer Pl3
+    400024: Prayer Pl4
+    400026: Prayer Pl5
+    400028: Prayer Pl6
+    400030: Prayer Pl7
+    400032: Prayer Pl8
+    400034: Prayer Pl9
+    400036: Prayer Pla
+    2300000: Prayer P10
+    2300002: Prayer P11
+    2300004: Prayer P12
+    2300006: Prayer P13
+    2300008: Prayer P14
+    2300010: Prayer P15
+    2300012: Prayer P16
+    2300014: Prayer Pl0
+    2300016: Prayer Pl1
+    2300018: Prayer Pl2
+    2300020: Prayer Pl3
+    2300022: Prayer Pl4
+    2300024: Prayer Pl5
+    2300026: Prayer Pl6
+    2300028: Prayer Pl7
+    2300030: Prayer Pl8
+    2300032: Prayer Pl9
+    2300034: Prayer Pla
+    3300000: Prayer P10
+    3300002: Prayer P11
+    3300004: Prayer P12
+    3300006: Prayer P13
+    3300008: Prayer P14
+    3300010: Prayer P15
+    3300012: Prayer P16
+    3300014: Prayer Pl0
+    3300016: Prayer Pl1
+    3300018: Prayer Pl2
+    3300020: Prayer Pl3
+    3300022: Prayer Pl4
+    3300024: Prayer Pl5
+    3300026: Prayer Pl6
+    3300028: Prayer Pl7
+    3300030: Prayer Pl8
+    3300032: Prayer Pl9
+    3300034: Prayer Pla
+    4300000: Prayer Pla
+    4300002: Prayer Pl0
+    4300004: Prayer Pl1
+    4300006: Prayer Pl2
+    4300008: Prayer Pl3
+    4300010: Prayer Pl4
+    4300012: Prayer Pl5
+    4300014: Prayer Pl6
+    4300016: Prayer Pl7
+    4300018: Prayer Pl8
+    4300020: Prayer Pl9
+    4300022: Prayer P10
+    4300024: Prayer P11
+    4300026: Prayer P12
+    4300028: Prayer P13
+    4300030: Prayer P14
+    4300032: Prayer P15
+    4300034: Prayer P16
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

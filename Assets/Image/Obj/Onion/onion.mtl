@@ -1,0 +1,13 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl Onion
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.683922 0.505098 0.329412
+Ks 0.372549 0.339216 0.303922
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\\Unity Project\\Model3D\\หัวหอม3\\cadnav.com_model\\Foods_B120234376\\Onion_diff.jpg
