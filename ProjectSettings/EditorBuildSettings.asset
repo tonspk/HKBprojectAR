@@ -9,29 +9,44 @@ EditorBuildSettings:
     path: Assets/Scenes/main.unity
     guid: 9db25dbaa27f7004994578aaf4ffeb31
   - enabled: 1
+    path: Assets/Scenes/armode.unity
+    guid: d9aa7eab41675f34f9d908c08c8c77f4
+  - enabled: 1
     path: Assets/Scenes/menu.unity
     guid: a3517fdd42e548d45bddd459a9c2f3ae
   - enabled: 1
     path: Assets/Scenes/help.unity
     guid: 768bd0397879ba94a8f4cfcb8ab8917e
   - enabled: 1
-    path: "Assets/Scenes/menuscene/\u0E1C\u0E31\u0E14.unity"
+    path: "Assets/Scenes/menuscene/new\u0E1C\u0E31\u0E14.unity"
+    guid: 65a6841485cf2b944b6c0bef80ba9b99
+  - enabled: 1
+    path: "Assets/Scenes/menuscene/new\u0E17\u0E2D\u0E14.unity"
+    guid: c9f55c1db16a4be48bd22c3792abdf81
+  - enabled: 1
+    path: "Assets/Scenes/menuscene/new\u0E22\u0E33.unity"
+    guid: ba14b485c8d561c40a577f823c5f8a91
+  - enabled: 1
+    path: "Assets/Scenes/menuscene/new\u0E15\u0E49\u0E21.unity"
+    guid: d58709e0aec80d340ace3c6ac3fa8cbc
+  - enabled: 1
+    path: "Assets/Scenes/menuscene/new\u0E24\u0E14\u0E39\u0E01\u0E32\u0E25.unity"
+    guid: 3757b78811002994bab08655c3e3feeb
+  - enabled: 0
+    path: 
     guid: a80bfbf5163358747bcc09f6d6adbe02
-  - enabled: 1
-    path: "Assets/Scenes/menuscene/\u0E17\u0E2D\u0E14.unity"
+  - enabled: 0
+    path: 
     guid: 9e8b6c7711f0e3b449771a4f25512bef
-  - enabled: 1
-    path: "Assets/Scenes/menuscene/\u0E15\u0E49\u0E21.unity"
+  - enabled: 0
+    path: 
     guid: 8c8771a5de1cc364bb26a79773fece73
-  - enabled: 1
-    path: "Assets/Scenes/menuscene/\u0E22\u0E33.unity"
+  - enabled: 0
+    path: 
     guid: be1b757f0de75cd4c91de6372843d4e9
-  - enabled: 1
-    path: "Assets/Scenes/menuscene/\u0E15\u0E32\u0E21\u0E24\u0E14\u0E39\u0E01\u0E32\u0E25.unity"
+  - enabled: 0
+    path: 
     guid: d4594d73469c4af4893d85d4a783f1da
-  - enabled: 1
-    path: Assets/Scenes/armode.unity
-    guid: d9aa7eab41675f34f9d908c08c8c77f4
   - enabled: 0
     path: 
     guid: 837f6f5807b1ec44591e269af4394a2c
