@@ -46,6 +46,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Script\CameraFocusController.cs" />
      <Compile Include="Assets\Script\ExternalLink.cs" />
      <Compile Include="Assets\Script\Rotator.cs" />
      <Compile Include="Assets\Script\loadScene.cs" />

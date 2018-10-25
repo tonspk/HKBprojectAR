@@ -5352,6 +5352,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Layer: 10
+--- !u!114 &152828068
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 152828066}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6d6f0ce8dcc31849abad2ec8d2db79f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &153126836
 Prefab:
   m_ObjectHideFlags: 0
@@ -51432,7 +51443,7 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: NampickMaterial
+  m_Name: KanghedpoaMaterial
   m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
@@ -51445,7 +51456,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 4d86a048764c4eb1a47d041e097ad784, type: 3}
+        m_Texture: {fileID: 2800000, guid: cd46610f64494b9b839a7a47d998254c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
